@@ -148,4 +148,7 @@ npm start
 
 Jay Parmar
 
-# live-kanban-board
+# 📋 Live Kanban Board
+
+👉 [Live Demo](https://kanban-board-jay.netlify.app)
+👉 [GitHub Repository](https://github.com/jay0044/live-kanban-board)
